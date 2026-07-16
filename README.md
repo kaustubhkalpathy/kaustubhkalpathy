@@ -44,6 +44,6 @@ AI-powered financial analysis copilot that autonomously fetches live market data
 
 ## 📬 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kaustubhkalpathy-0A66C2?logo=linkedin)](https://linkedin.com/in/kaustubhkalpathy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kaustubhkalpathy-0A66C2?logo=linkedin)](https://www.linkedin.com/in/kaustubh-kalpathy-72175a360/)
 [![GitHub](https://img.shields.io/badge/GitHub-kaustubhkalpathy-181717?logo=github)](https://github.com/kaustubhkalpathy)
 [![Email](https://img.shields.io/badge/Email-kaustubh.kalpathy%40gmail.com-D14836?logo=gmail)](mailto:kaustubh.kalpathy@gmail.com)
